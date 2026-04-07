@@ -68,3 +68,51 @@ Creating headings, paragraphs, and sections
 Writing HTML comments
 Building a simple navigation menu
 Structuring web pages properly
+
+
+Week 2 – Internship Activity & Assignment
+
+Activity: CSS Styling Methods Comparison
+Description
+
+This activity focuses on understanding different CSS styling methods and their usage in web development.
+Students apply inline, internal, and external CSS to the same HTML page to observe how styles are applied and understand when each method is appropriate.
+
+CSS Methods Used
+Inline CSS – Styling applied directly inside HTML elements using the style attribute.
+Internal CSS – Styling defined inside the <style> tag within the HTML <head> section.
+External CSS – Styling written in a separate .css file and linked to the HTML document.
+
+Deliverables
+One HTML file demonstrating all three CSS methods
+Comparison table explaining pros and cons of each method
+Screenshot of the styled webpage
+Assignment: CSS Styling for Form & Layout
+
+Description
+
+In this assignment, external CSS is used to style a form and improve the layout of the webpage. The goal is to enhance the user interface (UI) while maintaining consistency in design.
+
+Styling Features Applied
+Font styling and typography
+Color schemes for better visual appearance
+Proper alignment of form elements
+Spacing and layout adjustments
+Consistent UI design
+
+Deliverables
+External CSS file (styles.css)
+Before and after screenshots of the webpage
+Explanation of the CSS styling choices
+Technologies Used
+HTML
+CSS
+
+Learning Outcomes
+
+Through this week’s activity and assignment, I learned:
+
+Different ways to apply CSS in webpages
+Advantages and limitations of inline, internal, and external CSS
+How to style forms and layouts using CSS
+Creating consistent and user-friendly UI designs
