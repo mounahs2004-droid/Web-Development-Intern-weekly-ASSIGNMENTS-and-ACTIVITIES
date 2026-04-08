@@ -116,3 +116,64 @@ Different ways to apply CSS in webpages
 Advantages and limitations of inline, internal, and external CSS
 How to style forms and layouts using CSS
 Creating consistent and user-friendly UI designs
+
+Week 3 – Internship Activity & Assignment
+
+Activity: Interactive Web Page Mini Task
+Description
+
+This activity focuses on adding basic interactivity to a webpage using JavaScript.
+A simple webpage is created where JavaScript handles user interaction such as button click events or dynamic text changes.
+
+Features Implemented
+Button click event handling
+Dynamic text updates on the webpage
+Basic JavaScript integration within an HTML file
+Understanding DOM interaction
+Deliverables
+HTML file with embedded JavaScript
+Short explanation document describing how the interactivity works
+Assignment: Shopping List Array Project
+Description
+
+This assignment demonstrates the use of JavaScript arrays to manage a list of items.
+The program allows adding and removing items from a shopping list using array methods.
+
+Concepts Used
+JavaScript arrays
+push() method to add items
+pop() method to remove items
+Basic list management logic
+Deliverables
+Executable JavaScript file implementing the shopping list functionality
+Technologies Used
+HTML
+CSS
+JavaScript
+Learning Outcomes
+
+Through this week's tasks, I learned:
+
+How to add interactivity to web pages using JavaScript
+Handling events such as button clicks
+Using arrays to manage dynamic data
+Implementing basic JavaScript logic for simple applications
+
+✅ Tip for GitHub:
+Your repo structure can look like this:
+
+Web-Development-Internship
+│
+├── Week1
+│   ├── Activity
+│   └── Assignment
+│
+├── Week2
+│   ├── Activity
+│   └── Assignment
+│
+├── Week3
+│   ├── Activity
+│   └── Assignment
+│
+└── README.md
