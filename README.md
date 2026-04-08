@@ -159,7 +159,7 @@ Handling events such as button clicks
 Using arrays to manage dynamic data
 Implementing basic JavaScript logic for simple applications
 
-✅ Tip for GitHub:
+Tip for GitHub:
 Your repo structure can look like this:
 
 Web-Development-Internship
@@ -173,6 +173,74 @@ Web-Development-Internship
 │   └── Assignment
 │
 ├── Week3
+│   ├── Activity
+│   └── Assignment
+│
+└── README.md
+
+Week 4 – Internship Activity & Assignment
+
+Activity: Object-Driven DOM Update Project
+Description
+
+This activity focuses on connecting JavaScript objects with HTML elements to dynamically update webpage content. By using object properties, the webpage interface changes automatically based on JavaScript data.
+
+Objectives
+Understand the interaction between JavaScript objects and the DOM
+Practice dynamically updating HTML content
+Learn object-driven UI logic
+Improve front-end programming skills
+Implementation
+Create a JavaScript object containing data
+Access object properties using JavaScript
+Update HTML elements dynamically using DOM manipulation
+Display updated content on the webpage
+Deliverables
+HTML and JavaScript project files
+Screenshot showing UI updates
+Brief explanation of the workflow
+Assignment: Frontend Integration Lab — HTML, CSS, and JavaScript Workflow
+Description
+
+This assignment demonstrates how HTML structure, CSS styling, and JavaScript logic work together to create an interactive webpage. A form-based interface is used to handle user input and validate data.
+
+Objectives
+Understand integration of HTML, CSS, and JavaScript
+Handle user input using form elements
+Implement basic client-side form validation
+Organize front-end code for readability and maintainability
+Features Implemented
+Form input fields
+CSS styling for layout and design
+JavaScript form validation
+Interactive user interface
+Deliverables
+HTML file for webpage structure
+CSS file for styling
+JavaScript file for logic and validation
+Screenshot of the working interface
+Technologies Used
+HTML
+CSS
+JavaScript
+Learning Outcomes
+
+During Week 4 of the internship, I learned:
+
+How JavaScript objects interact with the DOM
+Dynamically updating webpage content
+Integrating HTML, CSS, and JavaScript in one project
+Implementing basic form validation and user interaction
+
+Tip:
+For your GitHub repo, your folder structure could look like:
+
+Web-Development-Internship
+│
+├── Week1
+├── Week2
+├── Week3
+├── Week4
 │   ├── Activity
 │   └── Assignment
 │
